@@ -2,7 +2,7 @@
 
 **Security research · Android · Linux · Protocol security · SDR & Radio**
 
-我是 **cnlnn**，长期使用这个 ID 记录安全研究、工具开发和折腾过程。关注从真实证据出发的问题定位，也喜欢把一次性的排查经验整理成可复用的工具与文章。
+安全研究与工具开发，关注蓝队工程、Android 客户端、网络协议与 Linux。偏好以可复现证据验证问题，并将实践沉淀为工具和文章。
 
 [技术博客](https://cnlnn.pages.dev/) · [T00ls](https://t00.ls/about) · [X / @cnlnn_](https://x.com/cnlnn_)
 
@@ -32,4 +32,3 @@
 <!-- BLOG-POST-LIST:END -->
 
 更多内容见 [cnlnn Blog](https://cnlnn.pages.dev/)。这里的文章列表每天从博客 Atom Feed 自动同步。
-
