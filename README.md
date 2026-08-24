@@ -28,7 +28,7 @@
 - [HackRF Portapack H4M 使用记录](https://cnlnn.pages.dev/posts/hackrf-portapack-h4m-usage-notes/) <sub>2025-12-18</sub>
 - [Python 标准库 asyncio](https://cnlnn.pages.dev/posts/python-library-asynico/) <sub>2025-12-14</sub>
 - [IEC 104 协议安全测试方法](https://cnlnn.pages.dev/posts/iec-104-protocol-security-testing/) <sub>2025-12-13</sub>
-- [WebView 漏洞挖掘实例](https://cnlnn.pages.dev/posts/webview-vulnerability-hunting-case/) <sub>2025-12-13</sub>
+- [Spigot Minecraft 服务器搭建与插件配置](https://cnlnn.pages.dev/posts/spigot-minecraft-server/) <sub>2025-12-13</sub>
 <!-- BLOG-POST-LIST:END -->
 
 更多内容见 [cnlnn Blog](https://cnlnn.pages.dev/)。这里的文章列表每天从博客 Atom Feed 自动同步。
