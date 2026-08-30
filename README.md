@@ -24,11 +24,11 @@
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek Harness 配置记录](https://cnlnn.pages.dev/posts/deepseek-harness-configuration/) <sub>2026-08-30</sub>
 - [分享链接是如何暴露分享者的](https://cnlnn.pages.dev/posts/share-link-identity-tracking/) <sub>2026-08-23</sub>
 - [HackRF Portapack H4M 使用记录](https://cnlnn.pages.dev/posts/hackrf-portapack-h4m-usage-notes/) <sub>2025-12-18</sub>
 - [Python 标准库 asyncio](https://cnlnn.pages.dev/posts/python-library-asynico/) <sub>2025-12-14</sub>
 - [IEC 104 协议安全测试方法](https://cnlnn.pages.dev/posts/iec-104-protocol-security-testing/) <sub>2025-12-13</sub>
-- [WebView 漏洞挖掘实例](https://cnlnn.pages.dev/posts/webview-vulnerability-hunting-case/) <sub>2025-12-13</sub>
 <!-- BLOG-POST-LIST:END -->
 
 更多内容见 [cnlnn Blog](https://cnlnn.pages.dev/)。这里的文章列表每天从博客 Atom Feed 自动同步。
